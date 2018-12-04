@@ -1,0 +1,30 @@
+{
+  "name": "mimi",
+  "version": "1.2.0",
+  "description": "Music Bot",
+  "main": "app.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "discord.js-musicbot-addon": "^13.3.1",
+    "ffmpeg-binaries": "^4.0.0",
+    "node-opus": "^0.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etcroot/Mimi.git"
+  },
+  "keywords": [
+    "discordjs",
+    "discord-music-bot"
+  ],
+  "author": "etcroot#6666",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/etcroot/Mimi/issues"
+  },
+  "homepage": "https://github.com/etcroot/Mimi#readme"
+}

@@ -1,0 +1,10 @@
+{
+    "credentials": "BOT TOKEN https://discordapp.com/developers/applications/",
+    "prefix": "BOT PREFIX",
+    "api": "YOUTUBE API KEY https://console.developers.google.com/",
+    "ownerid": "YOUR USER ID",
+    "colour": "HEX COLOUR, NO #",
+    "musicrole": "ROLE WHICH ANYONE CAN USE EVERY MUSIC COMMAND",
+    "admins": ["ADMIN ID'S CAN BE SEPARATED BY", "COMMAS"],
+    "defaultvolume": "DEFAULT PLAYBACK VOLUME"
+}
