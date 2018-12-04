@@ -1,5 +1,6 @@
 # Mimi
-Music Bot built with [discord.js-musicbot-addon](https://github.com/DarkoPendragon/discord.js-musicbot-addon) for people to use on their servers as a private bot, or people who wants to get into bot creating.
+Music Bot built with [discord.js-musicbot-addon](https://github.com/DarkoPendragon/discord.js-musicbot-addon) for people to use on their servers as a private bot, 
+or people who wants to get into bot creating.
 
 ## Features
 * ▶️ **Play** - 
