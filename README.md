@@ -2,31 +2,31 @@
 Music Bot built with [discord.js-musicbot-addon](https://github.com/DarkoPendragon/discord.js-musicbot-addon) for people to use on their servers as a private bot, or people who wants to get into bot creating.
 
 ## Features
-* ▶️ **Play**
+* ▶️ **Play** - 
 Queue a song/playlist by URL or name.
-* ❌ **Remove**
+* ❌ **Remove** - 
 Remove a song from the queue by position in the queue.
-* 📃 **Help**
+* 📃 **Help** - 
 Help for commands.
-* ⏭ **Skip**
+* ⏭ **Skip** - 
 Skip a song or songs with `skip [number]`
-* 🔇 **Leave**
+* 🔇 **Leave** - 
 Leaves the voice channel.
-* 🔎 **Search**
+* 🔎 **Search** - 
 Searches for up to 10 videos from YouTube.
-* ⏸ **Pause**
+* ⏸ **Pause** - 
 Pauses playing music.
-* ▶️ **Resume**
+* ▶️ **Resume** - 
 Resumes a paused queue.
-* 🔊 **Volume**
+* 🔊 **Volume** - 
 Changes the volume output of the bot.
-* 📑 **Queue**
+* 📑 **Queue** - 
 View the current queue.
-* 🔁 **Loop**
+* 🔁 **Loop** - 
 Sets the loop state for the queue.
-* ✖️ **Clear**
+* ✖️ **Clear** - 
 Clears the entire queue.
-* 🎵 **np**
+* 🎵 **np** - 
 Shows the now playing text.
 
 ## Running the bot
