@@ -4,7 +4,7 @@
   "description": "Music Bot",
   "main": "app.js",
   "dependencies": {
-    "discord.js": "^11.4.2",
+    "discord.js": "^12.5.3",
     "discord.js-musicbot-addon": "^13.3.1",
     "ffmpeg-binaries": "^4.0.0",
     "node-opus": "^0.3.1"
